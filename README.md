@@ -1,137 +1,128 @@
-# Apple Support AI Agent
+# 🍎 Apple Support AI Agent
 
-AI-powered customer support agent built for the Hiver SDE Intern Take-Home Assignment using historical AppleSupport conversations from the Customer Support on Twitter dataset.
+### AI-assisted customer support agent grounded in historical AppleSupport conversations
 
-The system classifies incoming customer messages, retrieves historically similar support cases, drafts a historically grounded response, and decides whether the case should be auto-handled or escalated.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
+[![Status](https://img.shields.io/badge/Status-Prototype-success)]()
 
-## Live Demo
-
-The application is deployed as a public Streamlit app.
-
-Live demo: https://hiver-sde-assignment-2nkqptrz6ylwbbduekzrvd.streamlit.app
-
-## Problem Framing
-
-Customer support conversations are often repetitive, but the correct response depends on the type of issue and how the brand historically handled similar problems.
-
-For this project, AppleSupport was selected as the target brand.
-
-A good support agent should:
-
-- Identify the customer's primary intent.
-- Find historically similar customer issues.
-- Use historical support responses as grounding evidence.
-- Produce a concise support-oriented draft.
-- Avoid automatically handling cases with high-risk escalation signals.
-- Provide a reason for the handling decision.
-
-### What I chose not to build
-
-I intentionally did not build:
-
-- A fully autonomous production support system.
-- Direct access to customer accounts or private Apple systems.
-- Automated actions such as refunds, password resets, or account changes.
-- A large-scale generative model fine-tuning pipeline.
-- Full-dataset inference during evaluation.
-
-The focus was on building an explainable and reproducible support-agent prototype using historical support data.
+**Live Demo:** https://hiver-sde-assignment-2nkqptrz6ylwbbduekzrvd.streamlit.app
 
 ---
 
-## Dataset
+## 🎯 What This Project Does
 
-The project uses the Kaggle Customer Support on Twitter dataset from the `thoughtvector/customer-support-on-twitter` dataset.
+Customer-support teams receive large volumes of repetitive requests. A significant amount of the knowledge required to answer these requests already exists in historical support conversations.
 
-The full dataset contains approximately 2.8 million tweets.
+This project explores how that historical knowledge can be turned into a practical AI-assisted support workflow.
 
-Relevant columns include:
+Given a new customer message, the system:
 
-- `tweet_id`
-- `author_id`
-- `inbound`
-- `created_at`
-- `text`
-- `response_tweet_id`
-- `in_response_to_tweet_id`
+> **Classifies the issue → Finds similar historical cases → Grounds the response → Decides whether to handle or escalate**
 
-`inbound=True` is treated as a customer message and `inbound=False` as a brand/support response.
-
-AppleSupport was selected as the target brand.
-
-The extracted AppleSupport data contains approximately 106K AppleSupport tweets.
-
-Conversation relationships were reconstructed using tweet and response IDs to preserve multi-turn support conversations.
-
-The large raw dataset is intentionally not committed to GitHub.
+The goal is not to build a fully autonomous support bot, but a **transparent support assistant** that helps produce consistent, evidence-backed responses while identifying cases that may require human intervention.
 
 ---
 
-## Intent Taxonomy
+## ✨ Key Capabilities
 
-A compact 11-class intent taxonomy was created after inspecting AppleSupport customer conversations.
+### 1. Intent Classification
+
+Incoming customer messages are mapped to a compact support taxonomy containing 11 intents:
 
 | Intent | Description |
 |---|---|
-| `account_login_verification` | Login, account access, verification and authentication issues |
-| `app_store_app_issue` | App Store or application-related problems |
-| `ios_software_issue` | iOS, updates and general software problems |
-| `battery_charging_issue` | Battery drain, charging and power issues |
-| `wifi_network_issue` | Wi-Fi and network connectivity issues |
-| `icloud_backup_restore` | iCloud, backup and restore issues |
-| `billing_payment_purchase` | Billing, payment and purchase problems |
-| `subscription_media_issue` | Subscriptions and media services |
-| `device_hardware_issue` | Physical device or hardware-related problems |
-| `messaging_calling_issue` | Messages, calls and communication problems |
-| `other_unclear` | Cases that do not fit the defined support categories clearly |
-
-The taxonomy intentionally keeps the number of classes small enough for a practical support-routing system.
+| `account_login_verification` | Account, login and verification issues |
+| `app_store_app_issue` | App Store and application problems |
+| `ios_software_issue` | iOS, updates and software issues |
+| `battery_charging_issue` | Battery drain and charging problems |
+| `wifi_network_issue` | Wi-Fi and network connectivity |
+| `icloud_backup_restore` | iCloud, backup and restore |
+| `billing_payment_purchase` | Billing, payment and purchase issues |
+| `subscription_media_issue` | Subscription and media services |
+| `device_hardware_issue` | Hardware and device problems |
+| `messaging_calling_issue` | Messages, calls and communication |
+| `other_unclear` | Ambiguous or unsupported requests |
 
 ---
 
-## Golden Evaluation Set
+### 2. 🔎 Historical Case Retrieval
 
-A 200-example golden evaluation set was created.
+The system searches historical AppleSupport conversations to find cases that are semantically similar to the incoming request.
 
-Each example contains:
+Sentence embeddings are generated using:
 
-- Customer message
-- Conversation context
-- Historical agent reply
-- Intent label
-- Escalation label/reason
-- Notes
+**`all-MiniLM-L6-v2`**
 
-The examples were sampled from the AppleSupport conversation data and manually reviewed for intent assignment.
+Similarity is calculated using cosine similarity.
 
-The final intent distribution contains all 11 taxonomy classes, with the largest class being `ios_software_issue` and `other_unclear`.
-
-Escalation labels were assisted using a rule-based escalation process and subsequently applied to the golden set. Therefore, the escalation labels should not be interpreted as fully independent human-only ground truth.
-
-The golden set is kept separate from the large historical corpus for evaluation purposes.
+The UI exposes the retrieved historical cases so that the response is not treated as a black box.
 
 ---
 
-## System Architecture
+### 3. 💬 Grounded Reply Drafting
+
+Retrieved historical support responses are used as grounding evidence for the response draft.
+
+This provides two advantages:
+
+- Responses remain aligned with previously observed support behaviour.
+- The agent can show the historical cases that influenced the draft.
+
+The system therefore prioritizes **grounded assistance over unrestricted response generation**.
+
+---
+
+### 4. 🛡️ Handling Decision
+
+Each request receives a handling recommendation:
+
+**Auto-handle**
+
+or
+
+**Escalate**
+
+The system also provides a reason for the decision.
+
+This is designed as a safety layer so that uncertain or high-risk requests can be routed to a human rather than being blindly automated.
+
+---
+
+# 🏗️ Architecture
 
 ```text
-Customer Message
-       |
-       v
-Intent Classification
-       |
-       +--------------------+
-       |                    |
-       v                    v
-Historical Retrieval    Escalation Rules
-       |                    |
-       v                    v
-Similar AppleSupport    Auto-handle /
-Cases                   Escalate
-       |
-       v
-Historical Support
-Response Grounding
-       |
-       v
-Draft Reply
+                    ┌─────────────────────┐
+                    │   Customer Message  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  Intent Classifier  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Semantic Retrieval  │
+                    │  Historical Cases   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Historical Evidence │
+                    │ + Support Responses │
+                    └──────────┬──────────┘
+                               │
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+       ┌──────────────────┐       ┌──────────────────┐
+       │  Reply Drafting  │       │ Escalation Check │
+       └────────┬─────────┘       └────────┬─────────┘
+                │                          │
+                └────────────┬─────────────┘
+                             ▼
+                    ┌─────────────────────┐
+                    │    Final Result     │
+                    │ Intent + Reply +    │
+                    │ Evidence + Decision │
+                    └─────────────────────┘
