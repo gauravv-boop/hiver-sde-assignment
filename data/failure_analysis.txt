@@ -1,0 +1,64 @@
+FAILURE ANALYSIS
+============================================================
+Total evaluation examples: 200
+
+Intent classification failures: 119
+
+TOP INTENT FAILURES
+------------------------------------------------------------
+Customer: @AppleSupport thanks, though that sucks... would be easier and more convenient if we could just delete from the lock screen
+Expected: messaging_calling_issue
+Predicted: icloud_backup_restore
+
+Customer: @AppleSupport And my sim card (att) continues to leave the network (sim failure)
+Expected: wifi_network_issue
+Predicted: ios_software_issue
+
+Customer: @AppleSupport yes - iMessages lag when typing, all my apps lag to open &amp; apps that use video snap chat, Facebook, Instagram &amp; Snapchat kill every time💀💀
+Expected: ios_software_issue
+Predicted: app_store_app_issue
+
+Customer: @AppleSupport  https://t.co/RMZgmAQwjg
+Expected: other_unclear
+Predicted: billing_payment_purchase
+
+Customer: @AppleSupport No need, all fixed. Thanks for your help. Very responsive. 👍🏻
+Expected: other_unclear
+Predicted: account_login_verification
+
+Retrieval intent failures: 105
+
+TOP RETRIEVAL FAILURES
+------------------------------------------------------------
+Customer: @AppleSupport thanks, though that sucks... would be easier and more convenient if we could just delete from the lock screen
+Expected: messaging_calling_issue
+Predicted: ios_software_issue
+
+Customer: @AppleSupport I phone 7. I want twitter to see/read write screenshots only. Not all photos. Thanks
+Expected: other_unclear
+Predicted: app_store_app_issue
+
+Customer: @AppleSupport And my sim card (att) continues to leave the network (sim failure)
+Expected: wifi_network_issue
+Predicted: device_hardware_issue
+
+Customer: @AppleSupport  https://t.co/RMZgmAQwjg
+Expected: other_unclear
+Predicted: ios_software_issue
+
+Customer: @AppleSupport Does this mean updating it through my mac book?
+Expected: ios_software_issue
+Predicted: device_hardware_issue
+
+ESCALATION REASONS
+------------------------------------------------------------
+Rule-based auto-handle suggestion.: 166
+Rule-based escalation suggestion; human review recommended.: 34
+
+MAIN FAILURE HYPOTHESES
+------------------------------------------------------------
+1. Ambiguous customer messages can map to multiple intents.
+2. Short messages provide insufficient semantic context.
+3. Keyword-heavy issues can overlap across device and software categories.
+4. Retrieval can surface semantically similar but operationally different cases.
+5. Historical replies may not always contain enough context to safely generate a complete answer.

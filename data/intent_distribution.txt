@@ -1,0 +1,100 @@
+APPLE SUPPORT — INTENT DISTRIBUTION
+======================================================================
+
+Customer messages: 28373
+Messages matching multiple intents: 3282
+
+INTENT COUNTS
+----------------------------------------------------------------------
+other_unclear                        16778 (59.13%)
+ios_software_issue                    5067 (17.86%)
+app_store_app_issue                   2321 ( 8.18%)
+messaging_calling_issue                762 ( 2.69%)
+device_hardware_issue                  669 ( 2.36%)
+wifi_network_issue                     601 ( 2.12%)
+battery_charging_issue                 597 ( 2.10%)
+account_login_verification             529 ( 1.86%)
+subscription_media_issue               461 ( 1.62%)
+icloud_backup_restore                  429 ( 1.51%)
+billing_payment_purchase               159 ( 0.56%)
+
+
+EXAMPLES
+======================================================================
+
+### app_store_app_issue
+1. @AppleSupport The newest update. I️ made sure to download it yesterday.
+2. @AppleSupport The app is still there. But no longer able to control it from the lockscreen.
+3. @AppleSupport iPhone 6, yes ios11. Checked for updates, none available. I’ve swiped up to close the app several times and I’ve restarted it 2x
+4. @AppleSupport My screen is lagging, my apps are all glitching, your new screen updates are slowing my processsing speed down. Y’all are killin me fr yo
+5. @AppleSupport I get this message when I close the app. When I touch it I get into the app, but getting this when closing the app is annoying.
+
+### other_unclear
+1. @AppleSupport Tried resetting my settings .. restarting my phone .. all that
+2. @AppleSupport I️ have an iPhone 7 Plus and yes I️ do
+3. @AppleSupport Just sent you all my DM
+4. @AppleSupport This is what is happening... https://t.co/X3SZSJXfAT
+5. @AppleSupport @115861 We’re going to need you to share the answers Angela. I️ can’t stand this!
+
+### messaging_calling_issue
+1. @AppleSupport are the call centres closed for the night?
+2. @AppleSupport No imessage as well I️
+3. @AppleSupport okay i’ll message soon, thankyou for your help
+4. @AppleSupport iMessage &amp; snapchat
+5. @AppleSupport I received an error message. And another when I tried to set it up again in settings
+
+### ios_software_issue
+1. @AppleSupport I have the iPhone 6s Plus and just did the most recent update.
+2. @AppleSupport I need the software update urgently. The battery lasts literally half a day 🙍🏼🙁@AppleSupport
+3. @AppleSupport iOS 11.0.3
+4. @AppleSupport I️ just updated it and it’s still coming up https://t.co/22RZsQyTbh
+5. @AppleSupport No I had 11.0.3 but now it says 11.1 update so ima go ahead and do that
+
+### account_login_verification
+1. @AppleSupport it has, but not for some time now. i’ve tried with two different apple ids but it’s still not showing up on my phone
+2. @AppleSupport When your senior tech blamed me for the problem because he can’t fix it or my password lead me to find help elsewhere. It is all over the web that this latest update has caused app update problems. Never again!
+3. @AppleSupport Just used your "chat" portion on help, it won't let me chat with anyone. My apple ID has been very buggy
+4. @AppleSupport Yes, same thing. Its not working. I'm trying on both my account and as a guest. It says both times that I do not have access.
+5. @AppleSupport Yes. I read and did that. I get a message that says I cannot change my Apple ID to an email ending in @798. Which is contrary to the document
+
+### device_hardware_issue
+1. @AppleSupport I just get a white screen and nothing loads. After a short time, it just closes/crashes. Thanks for the reply.
+2. @AppleSupport ya.lately my screen was disfunction for touch after its been restart. i couldnt enter passcode yet homebutton still figureout my fingerprint
+3. @AppleSupport the screen had green lines on one side and then stopped working altogether. Afraid I can't remember the OS, I expect it was in the latest OS when it broke about 8 weeks ago if hat helps?
+4. @AppleSupport I’ve tried that didn’t help. Now it’s just a matter of turning the screen off and letting it sit for 30 seconds then usually it works
+5. @AppleSupport No, just turns the image from the front facing camera fuzzy
+
+### subscription_media_issue
+1. @AppleSupport But this does not show the music stored on my phone like it did in os3. I do not want to store music on my phone.
+2. @AppleSupport Apple Music.
+3. @AppleSupport Listen @AppleSupport  I need a number to iTunes support right now please I need to talk to them
+4. @AppleSupport Does this mean I as a musical artist have to enrol as an Apple Developer? All I want to do is set my Artist Photo on Apple Music!! xx
+5. @AppleSupport 11.0.3 and iTunes 12.7.
+
+### battery_charging_issue
+1. @AppleSupport Hi, I plugged an adapter straight into the transformer and it still didn't charger. The charger LED does not light up either.
+2. @AppleSupport @116860 I have and my battery life has become even worse
+3. @AppleSupport It’s showing it’s connected and the battery is decreasing.
+4. @AppleSupport iOS11.1 consumes battery pretty fast....
+5. @AppleSupport how you gon troubleshoot a charger tho
+
+### icloud_backup_restore
+1. @AppleSupport My screen is broken and I’d like to connect in iTunes in order to save my data. How can I do ? iTunes request to unlock my device ...
+2. @AppleSupport Due to non provoced heavy disk access on my external disk, right after updating to 10.13.1 DATA DOWN! #fail 2/2
+3. @AppleSupport I bought this phone on Friday and restored from a back up, it looks as if everything’s restored but it’s telling me it hasn’t here https://t.co/FiWBGeOtwh
+4. @AppleSupport there is one from a little while back that would have most of the notes data
+5. @AppleSupport I connected 7 to create backup before heading to collect my new X on my lunch break. When I got back to work and turned on X and selected restore from iTunes backup it said previous backup was corrupted. Needed my phone so had to set up as new to make calls.
+
+### wifi_network_issue
+1. @AppleSupport If I open Safari, for example, a message appears which says that there is no internet connection.
+2. @AppleSupport Fixed. Wasn’t worm king with both until I went to work and connected to a WiFi that I haven’t been remembered by
+3. @AppleSupport Thank you! My friend spotted this. I didn't realise it wouldn't automatically do the latest one. Thanks for replying-will do when get wifi😀
+4. @AppleSupport I’ll do that when I get access to WiFi later today
+5. @AppleSupport I can listen to music and talk on internet calls (whatsapp/FaceTime) but regularly mobile calls are mute. Can’t hear other person
+
+### billing_payment_purchase
+1. @AppleSupport It’s usually a site trying to process a payment. I’m on High Sierra.
+2. @AppleSupport Well, I couldn’t get the SIM card back in and now it’s jammed in there so I guess I’ll be at the Apple store tomorrow haha thanks anyway!
+3. @AppleSupport Yess it does &amp; it shows up in my purchase history but as “pending”, when i tried to purchase it again it told me that it’s already purchased. I just don’t understand why the price still shows up &amp; why it asks if i wanna purchase it again but tells me its already there.
+4. @AppleSupport Thanks for your help. I see I wouldn't be eligible but student discount is fantastic enough without the extra gift card.
+5. @AppleSupport Did that, got pointed back to sales team. Talked to them this AM, they pointed me to C/S, who pointed me to Sharon M who said if I get charged that’s too bad, even though it’s @115858’s fault. I don’t want runarounds, I want reassurance.

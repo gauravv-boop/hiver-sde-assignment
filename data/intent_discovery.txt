@@ -1,0 +1,465 @@
+APPLE SUPPORT — INTENT DISCOVERY
+======================================================================
+
+Conversations: 22481
+Customer messages: 28373
+
+TOP KEYWORDS
+----------------------------------------------------------------------
+  1. ios                       3544
+  2. iphone                    3229
+  3. phone                     3029
+  4. thanks                    2836
+  5. update                    2224
+  6. yes                       2155
+  7. thank                     1978
+  8. app                       1323
+  9. issue                     1182
+ 10. work                      1167
+ 11. tried                     1152
+ 12. apps                      1126
+ 13. don                       1091
+ 14. back                      1067
+ 15. screen                    1054
+ 16. problem                   1054
+ 17. off                       1044
+ 18. time                      1043
+ 19. doesn                     1016
+ 20. updated                   1009
+ 21. new                       966
+ 22. same                      950
+ 23. like                      934
+ 24. out                       929
+ 25. battery                   889
+ 26. using                     878
+ 27. since                     829
+ 28. fix                       828
+ 29. working                   789
+ 30. sent                      776
+ 31. plus                      742
+ 32. done                      728
+ 33. know                      715
+ 34. didn                      700
+ 35. music                     672
+ 36. see                       634
+ 37. wifi                      626
+ 38. other                     624
+ 39. version                   613
+ 40. use                       607
+ 41. times                     599
+ 42. happens                   578
+ 43. latest                    577
+ 44. nothing                   574
+ 45. every                     552
+ 46. try                       544
+ 47. message                   515
+ 48. last                      501
+ 49. worked                    500
+ 50. fixed                     477
+ 51. well                      473
+ 52. itunes                    472
+ 53. won                       470
+ 54. works                     469
+ 55. think                     463
+ 56. fine                      451
+ 57. seems                     440
+ 58. turn                      427
+ 59. both                      426
+ 60. running                   425
+ 61. restart                   421
+ 62. started                   412
+ 63. having                    412
+ 64. everything                407
+ 65. happening                 404
+ 66. store                     399
+ 67. open                      397
+ 68. reset                     395
+ 69. software                  392
+ 70. never                     386
+ 71. says                      383
+ 72. reply                     382
+ 73. sure                      379
+ 74. settings                  378
+ 75. ipad                      378
+ 76. device                    373
+ 77. anything                  372
+ 78. which                     370
+ 79. response                  361
+ 80. issues                    361
+ 81. ago                       352
+ 82. few                       351
+ 83. let                       349
+ 84. restarted                 349
+ 85. day                       348
+ 86. going                     343
+ 87. freezes                   341
+ 88. through                   340
+ 89. slow                      338
+ 90. down                      338
+ 91. home                      334
+ 92. guys                      332
+ 93. way                       329
+ 94. happened                  320
+ 95. keeps                     316
+ 96. hours                     316
+ 97. updates                   314
+ 98. messages                  314
+ 99. download                  313
+100. sometimes                 312
+
+
+SUPPORT KEYWORD EXAMPLES
+======================================================================
+
+### PASSWORD
+1. @AppleSupport When your senior tech blamed me for the problem because he can’t fix it or my password lead me to find help elsewhere. It is all over the web that this latest update has caused app update problems. Never again!
+2. @AppleSupport On Safari it gives me connection error, after entering 2FA password and trusting the browser dialogs. I get a similar error in iCloud prefs https://t.co/LXiPTSfT8K
+3. @AppleSupport I  put it in recovery mode and reset it but it just asked me for the password again. When I tried to reset it a second time
+4. @AppleSupport Already changed my password and will not let me update apps on my Mac. Still receiving this message. https://t.co/an5JIQ4YSg
+5. @AppleSupport I’ve updated to iOS 11.1. Still get “Invalid password “, even after resetting network setting and ‘forget this network’ and trying again to join. Nothing works.
+
+### LOGIN
+1. @AppleSupport None of the above. I just tried to check my emails and a message popped up saying that the Mac couldn’t login to the email address and the account.
+2. @AppleSupport it did work with a trick
+I skipped login several times before it finally allows me to access Siri setup and my device.
+after I setup Siri and start using my device I found out that I'm logged in already to my account -although I skipped it earlier-.
+iOS.11.1.2  v.n
+thanx👍
+3. @AppleSupport Never mind I found the setting. I had one of my emails attempting to login so I deleted it. No the Cloud People can’t get their hands on my secret plans to over throw the Lizard people. Children in the village will sing tale of this day. Thank you
+4. @AppleSupport I can't turn it off / restart it however both the home button and the turn off button work to login / put on standby respectively
+5. @AppleSupport Can’t get to the force quit menu, can’t switch apps, can’t get to the login screen. The only recourse is to hold power button down.
+
+### ACCOUNT
+1. @AppleSupport Yes, same thing. Its not working. I'm trying on both my account and as a guest. It says both times that I do not have access.
+2. @AppleSupport I have, also have signed out of my iMessage account and logged back in
+3. @AppleSupport I tried to reset my question through this link but again :
+We apologize but we are unable to verify your account information online.
+4. @AppleSupport Do I have to do an account recovery?? Which I have to wait 24 hours for??
+5. @AppleSupport I’ve forwarded it to the phishing email account that you guys have.
+
+### ICLOUD
+1. @AppleSupport On Safari it gives me connection error, after entering 2FA password and trusting the browser dialogs. I get a similar error in iCloud prefs https://t.co/LXiPTSfT8K
+2. @AppleSupport Thank you. Twitter didn’t notify me of your reply :( so restored phone &amp; ok now. Was phone storage not iCloud.
+3. @AppleSupport Yup. Am a member. Normally make updates on iTunes on the comp, listen on-the-go on my phone. The iCloud Lib on/off button turns on and then back to off once I leave Settings. Since yest morning. Haven’t made any setting/other changes. Normal operation
+4. @AppleSupport I did an icloud backup two days ago, i’ll update my software
+5. @AppleSupport I actually lost the power cord so I finally charged my ipad yesterday and am using it today for the first time in a few months. Since turning it on this morning, I haven't been able to update any apps or navigate the app store at all. I checked and my icloud account is linked
+
+### IPHONE
+1. @AppleSupport I️ have an iPhone 7 Plus and yes I️ do
+2. @AppleSupport I have the iPhone 6s Plus and just did the most recent update.
+3. @AppleSupport iPhone 7 Plus 😊
+4. @AppleSupport iPhone 6, yes ios11. Checked for updates, none available. I’ve swiped up to close the app several times and I’ve restarted it 2x
+5. @AppleSupport iPhone 7+, iOS 11.1
+
+### IPAD
+1. @AppleSupport iPad and iPhone
+2. @AppleSupport iPad 11.0.3 iPhone 11.0.3 and yes I have tried unpairing and issue still persisted
+3. @AppleSupport Can’t be completed , I tried my other iPhone and my iPad it’s working perfectly
+4. @AppleSupport 11.1. Happening on my iPad as well so version number.
+5. @AppleSupport Yes. Looking for ways to minimize ipad data use while tethered through iPhone on cellular.
+
+### MAC
+1. @AppleSupport Already changed my password and will not let me update apps on my Mac. Still receiving this message. https://t.co/an5JIQ4YSg
+2. @AppleSupport I couldn’t access App Store neither iPhone nor Mac. But everything restored few mins ago. Thank you.
+3. @AppleSupport Now this is popping up and my macintosh hd disk is no longer an option. This happened after I was downloading the new Mac OS Sierra. https://t.co/3uUwqn0PFg
+4. @AppleSupport iPhone Mac laptop and iPad
+5. @AppleSupport None of the above. I just tried to check my emails and a message popped up saying that the Mac couldn’t login to the email address and the account.
+
+### ITUNES
+1. @AppleSupport My screen is broken and I’d like to connect in iTunes in order to save my data. How can I do ? iTunes request to unlock my device ...
+2. @AppleSupport Thanks for getting back to me. I have Windows 10 &amp; the latest version of iTunes, which updated this morning just before I did the sync.
+3. @AppleSupport Listen @AppleSupport  I need a number to iTunes support right now please I need to talk to them
+4. @AppleSupport 11.0.3 and iTunes 12.7.
+5. @AppleSupport I connected 7 to create backup before heading to collect my new X on my lunch break. When I got back to work and turned on X and selected restore from iTunes backup it said previous backup was corrupted. Needed my phone so had to set up as new to make calls.
+
+### APP
+1. @AppleSupport The app is still there. But no longer able to control it from the lockscreen.
+2. @AppleSupport iPhone 6, yes ios11. Checked for updates, none available. I’ve swiped up to close the app several times and I’ve restarted it 2x
+3. @AppleSupport I get this message when I close the app. When I touch it I get into the app, but getting this when closing the app is annoying.
+4. @AppleSupport It only happens when I close WhatsApp, doesn’t happen with any other app. I run iOS11.0.3 https://t.co/TraFhnSo3i
+5. @AppleSupport Like this. Open the Multitasking screen, swiping up on the WhatsApp app to close it; as seen in the video. https://t.co/yeOErcAbIz
+
+### APPS
+1. @AppleSupport My screen is lagging, my apps are all glitching, your new screen updates are slowing my processsing speed down. Y’all are killin me fr yo
+2. @AppleSupport It’s happening in all my apps. I’m thinking there’s a problem with the keyboard.
+3. @AppleSupport I am using iOs 11.1.2 in my iphone 6s.. as soon as put the apps in update, they get pending to get updated and later on failureof update notice pops up
+4. @AppleSupport Both downloading updates and new apps. No messages shown when I’m downloading.
+5. @AppleSupport It’s glitching when I try to erase pictures or go onto new apps
+
+### UPDATE
+1. @AppleSupport The newest update. I️ made sure to download it yesterday.
+2. @AppleSupport I have the iPhone 6s Plus and just did the most recent update.
+3. @AppleSupport I need the software update urgently. The battery lasts literally half a day 🙍🏼🙁@AppleSupport
+4. @AppleSupport No I had 11.0.3 but now it says 11.1 update so ima go ahead and do that
+5. @AppleSupport Yes, after the update. I Phone 7
+
+### UPDATED
+1. @AppleSupport I️ just updated it and it’s still coming up https://t.co/22RZsQyTbh
+2. @AppleSupport 11.1?? when did that come out lol, i talked to you guys last night and you asked if i was updated to 11.0.3 which i am lol
+3. @AppleSupport I've updated to iOS 11.1 just now. I shall check out these WiFi hotspots tomorrow and later in the week.
+4. @AppleSupport Okay, I️ updated my phone the newest version
+5. @AppleSupport Tried the steps. Still receiving an error message. Just updated to iOS 11.1 and got the message when my phone restarted
+
+### IOS
+1. @AppleSupport iOS 11.0.3
+2. @AppleSupport iOS 11.1 it’s been getting worse for a few months now
+3. @AppleSupport iPhone 7+, iOS 11.1
+4. @AppleSupport newest version of iOS and iPhone 7
+5. @AppleSupport It’s sorted. Thanks. iOS update needed a change and hard reboot
+
+### PAYMENT
+1. @AppleSupport It’s usually a site trying to process a payment. I’m on High Sierra.
+2. @AppleSupport Thank you. Already restarted and prob persists. I even updated my payment info
+3. @AppleSupport Thanks. That worked and I was able to change my payment method to none.
+4. @AppleSupport hey apple,                                                     apple does not recognise visa payment from rwanda east africa please help include rwanda on your countries list. thanks
+5. @AppleSupport I use a iPhone 7 and it says I need to verify my account payment I enter everything correctly and It says decline
+
+### CHARGE
+1. @AppleSupport Yes restarted twice. Even powered off totally. Still not working. My photo app also got all messed up somehow. I had my phone plugged into MacBook Pro, but was only using to charge.
+2. @AppleSupport No, I think this needs to be public so it can help other people. So the phone is now dead and won’t charge, regardless of what charging cable I use or what I plug it into. What are you going to do about that? #iPhonebattery #iOS11
+3. @AppleSupport All as are updated, started to charge at 22% at 5.30pm only at 86% at 7.30pm usually doesn’t take long to get back to full charge.....
+4. @AppleSupport No error or anything. But you can see how quickly the batter has died since the last full charge. I don’t know what to do :( https://t.co/bC2DRo4HUC
+5. @AppleSupport Nope, it’s neither on charge or connected to another device.
+
+### CHARGED
+1. @AppleSupport I actually lost the power cord so I finally charged my ipad yesterday and am using it today for the first time in a few months. Since turning it on this morning, I haven't been able to update any apps or navigate the app store at all. I checked and my icloud account is linked
+2. @AppleSupport Did that, got pointed back to sales team. Talked to them this AM, they pointed me to C/S, who pointed me to Sharon M who said if I get charged that’s too bad, even though it’s @115858’s fault. I don’t want runarounds, I want reassurance.
+3. @AppleSupport Yea, my MacBook is plugged in and charging. My iPhone X is the only other thing plugged in. It seems to happen more when my iPhone is 10-20% charged - though it does seem to charge fine! https://t.co/sQsPOWQyzj
+4. @AppleSupport Apple Music is not letting me switch to the student subscription after I verified my student account 2 months ago! I’ve been charged $9.99 https://t.co/SBNuE1OA11
+5. @AppleSupport I’ve got iOS 11 my phone no longer charges like it used with ease and speed, when it’s charged the battery drains so easily 🙃
+
+### REFUND
+1. @AppleSupport I talked to customer service they said they’d refund me got off phone they didn’t
+2. @AppleSupport My point was your bug led me to go out and buy a new phone unnecessarily. And by the way. The bug affected the new phone too after restoring a backup!!! How about a refund?
+3. @AppleSupport I have directly contacted your customer support via your website. I have now cancelled the order and in the process of having a refund issued. UK Mail has NO customer service whatsoever. Ref order number W614563204
+4. @AppleSupport I have already canceled the subscription within the app, but i didn’t want or approve of the purchase, any way of a refund?
+5. @AppleSupport So it should remove the charges automatically and refund me?
+
+### SUBSCRIPTION
+1. @AppleSupport Apple Music is not letting me switch to the student subscription after I verified my student account 2 months ago! I’ve been charged $9.99 https://t.co/SBNuE1OA11
+2. @AppleSupport It was through settings&gt;app store &gt;Apple ID. My subscription is renewed 20th, so need to get it sorted
+3. @AppleSupport Hi, thanks for the reply. I’m relieved to say that I've been able to transfer my playlists on Spotify to Apple Music. It would be nice though if playlists are saved (and Apple Music songs are just greyed out when cancelling subscription).
+4. @AppleSupport Hang on, I inadvertently hit change store on a pop up as an app wasn’t available in the UK and now I can’t change back just as easy? I need to cancel my subscription? It only renewed today so a month with no Apple Music? You’re kidding?!
+5. @AppleSupport I cant find the MANAGE SUBSCRIPTION. See screenshot. I only have manage itunes and special offers. https://t.co/nGWgRVoEVE
+
+### BILLING
+1. @AppleSupport So, what if you don't have VISA / PayPal or any of these options. Sorry guys, forcing billing information for updates is not user friendly.
+2. @AppleSupport @236695 Every time i try to download a app or update one it asks for my billing information even tho the app is free. What do i do.
+3. @AppleSupport Seems to be working now. FWIW, this was after putting in my billing zip code and last of my SSN
+4. @AppleSupport Yes! He telling me billing problem
+5. @AppleSupport I don't think you understand. When I am trying to update an app is asking me for verification for billing when it's a free app. Also when I follow the steps it's says cc invalid. Even though I shouldn't since app is free. https://t.co/hHEa6UyPyj
+
+### PURCHASE
+1. @AppleSupport Yess it does &amp; it shows up in my purchase history but as “pending”, when i tried to purchase it again it told me that it’s already purchased. I just don’t understand why the price still shows up &amp; why it asks if i wanna purchase it again but tells me its already there.
+2. @AppleSupport I’m the owner of a family sharing group. No other changes to my Apple ID. I had PayPal set previously, then made a purchase in the iTunes Store (iOS) and it asked me to re-enter my PayPal password, but there was no option to. Card was only option available.
+3. @AppleSupport i purchased one of the dances on the ElfYourself app and got a confirmation of the purchase and the money is off my account, but i haven’t gotten the dance in the app?
+4. @AppleSupport Hi. Nothing for 43p on my purchase history.
+5. @AppleSupport I think apple is worlds best cell phone .but you guys not even sorry for your mistakes just blaming me about the update.other cell phone company service are much better then apple.i have wasted my 70k to purchase this fucking apple phone. Don’t give bullshit Instead of solution
+
+### ORDER
+1. @AppleSupport Chat doesn’t seem to work in Germany. On the order page I cannot leave comments …
+2. @AppleSupport My screen is broken and I’d like to connect in iTunes in order to save my data. How can I do ? iTunes request to unlock my device ...
+3. @AppleSupport Pleas look at order W578459521, your customer support is abysmal in this matter. Clearly the device has been lost somewhere with the courier
+4. @AppleSupport Stuff that’s not in chronological order. It’s just nowhere as user friendly as before
+5. @AppleSupport It’s downloaded the whole album but the tracks are in the wrong order 🤔 https://t.co/LcBjM5EOl6
+
+### CREDIT
+1. @AppleSupport Thanks, thing is I still have like 81 cents in credit and won't let me do that until I have zero credit
+2. @AppleSupport I can’t say for sure. It started with iOS 11. Only does it when I have to enter credit card info. Not sure if it’s every site.
+3. @AppleSupport Canceled! Why would you do that😩. 
+Why you do not accept foreign credit card 😡😠 to the US address.
+4. @AppleSupport Thank you, and what about with my credit card? Is not a problem?
+5. @AppleSupport Thanks, but it seems vague. Can I physically take my laptop in for immediate store credit?
+
+### CARD
+1. @AppleSupport I can’t say for sure. It started with iOS 11. Only does it when I have to enter credit card info. Not sure if it’s every site.
+2. @AppleSupport Well, I couldn’t get the SIM card back in and now it’s jammed in there so I guess I’ll be at the Apple store tomorrow haha thanks anyway!
+3. @AppleSupport I’m the owner of a family sharing group. No other changes to my Apple ID. I had PayPal set previously, then made a purchase in the iTunes Store (iOS) and it asked me to re-enter my PayPal password, but there was no option to. Card was only option available.
+4. @AppleSupport Thanks for your help. I see I wouldn't be eligible but student discount is fantastic enough without the extra gift card.
+5. @AppleSupport I keep calling regarding a mental function with your software what allowed me to buy Apple store gift card for the US when I am not in the US it’s been going on for three weeks now Even though the region of the world that I live comes on the Latin America and the Caribbean’s
+
+### MUSIC
+1. @AppleSupport But this does not show the music stored on my phone like it did in os3. I do not want to store music on my phone.
+2. @AppleSupport Apple Music.
+3. @AppleSupport The music app. Press on the icon and I get flash of a a black screen before returning to home. Have rebooted and reset
+4. @AppleSupport Does this mean I as a musical artist have to enrol as an Apple Developer? All I want to do is set my Artist Photo on Apple Music!! xx
+5. @AppleSupport i have never tried on Mobile data. the problem does persist on all Wi-Fi networks (open and private) that my iphone 5s has connected to, the music app would crash and close soon after i open it.
+
+### DOWNLOAD
+1. @AppleSupport The newest update. I️ made sure to download it yesterday.
+2. @AppleSupport I have tried it on different WiFi and cell data. It seems to not work. Then quite some time after I have tired to download it will pop up multiple times to allow it to download then later it downloads out of no where. So it’s strange.
+3. @AppleSupport All messages came back. And I am connected to wifi but I have also tried to download using data. It also won't let me do a software update
+4. @AppleSupport Will download and trial. Thank you
+5. @AppleSupport Hmm, it’s back. Halloween prank? The only downside is that I need to download every album/playlist manually. Is there a faster way?
+
+### ACTIVATION
+1. @AppleSupport Latest version of iOS. 
+It says a error occurred during activation. Turned phone off and on. Nothing. New phone just set it this evening
+2. @AppleSupport it's saying that activation is unsuccessful :////
+3. @AppleSupport Thanks for the lead, but still got activation issues. What's the best way to get more help?
+4. @AppleSupport It says iMessage Activation, followed by an error trying to activate.
+5. @AppleSupport Turning off the ❤️monitor, wrist activation and Bluetooth defects the object of the actual ⌚️
+
+### LOCKED
+1. @AppleSupport It will play but can’t be controlled from locked screen or earphones. Only works half the time
+2. @AppleSupport I know how to do that, my problem is that my WiFi will turn on by itself and connect to a network that’s locked so I’m always having to turn it back off, it’s just frustrating
+3. @AppleSupport My locked screen goes blank at least 5 times a day, have to restart my phone, it glitches and freezes.
+4. @AppleSupport Yes from the control center. From yesterday i have observed if i keep my phone locked for some time and unlock it, wifi is on automatically
+5. @AppleSupport Today... I was chatting and my bat was at 28 locked and 3 minutes later was about to reply, 10% then opened to twitted it Boom 2%
+
+### VERIFICATION
+1. @AppleSupport yes. i have finished the recovery process but i can't access either of the devices i was logged into beforehand to get the verification code
+2. @AppleSupport Im not text with a verification code on message my phone number https://t.co/1rgFIQUWiv
+3. @AppleSupport not receiving the verification code Help me Please
+4. @AppleSupport restart does not help. If I try on cellular I get an error “verification failed. There was a problem connecting to the server” https://t.co/ahjiblDUNg
+5. @AppleSupport it says i will need to generate a verification code. I'm being sent in circles. any way i  can trigger the error to better advise?
+
+### EMAIL
+1. @AppleSupport Just phone numbers, not available now … why is it so hard to just put an email-address there?
+2. @AppleSupport Yes. I read and did that. I get a message that says I cannot change my Apple ID to an email ending in @798. Which is contrary to the document
+3. @AppleSupport Can we speak via email? __email__
+4. @AppleSupport I’ve forwarded it to the phishing email account that you guys have.
+5. @AppleSupport Same response as the image I sent. Can I DM my email for you guys to check? Thanks a lot! :)
+
+### NOTIFICATION
+1. @AppleSupport i’ve tried restarting it a couple of times and no luck, just deleted it and i’m still getting the notification
+2. @AppleSupport iOS 11.1.2 on X. Notification issue happens on both Wi-Fi and cellular.
+3. @AppleSupport im using ios 11, it’s super laggy whenever i receive a notification or sometimes when im typing a message, after i hit send itll cut off the last few letters i typed
+4. @AppleSupport Thanks for answer. Look at the picture please. The text of the notification doesn’t fit in the box. Why?
+5. @AppleSupport With Instagram
+The whole app becomes slow along with the swiping of control center and notification panel
+I am having problem with theae social media apps only
+And these didnt occur as I upgraded from Ios 9 to ios 11
+
+### WIFI
+1. @AppleSupport I've updated to iOS 11.1 just now. I shall check out these WiFi hotspots tomorrow and later in the week.
+2. @AppleSupport I have tried it on different WiFi and cell data. It seems to not work. Then quite some time after I have tired to download it will pop up multiple times to allow it to download then later it downloads out of no where. So it’s strange.
+3. @AppleSupport Fixed. Wasn’t worm king with both until I went to work and connected to a WiFi that I haven’t been remembered by
+4. @AppleSupport Thank you! My friend spotted this. I didn't realise it wouldn't automatically do the latest one. Thanks for replying-will do when get wifi😀
+5. @AppleSupport All messages came back. And I am connected to wifi but I have also tried to download using data. It also won't let me do a software update
+
+### BATTERY
+1. @AppleSupport I need the software update urgently. The battery lasts literally half a day 🙍🏼🙁@AppleSupport
+2. @AppleSupport @116860 I have and my battery life has become even worse
+3. @AppleSupport Running 4.0 . 4.1 showed up as an update this morning. Installing it as I type.  All was fine re: battery prior to 4.0 fingers crossed!
+4. @AppleSupport Yes, sorry i mean iOS 11, when I texting my keyboard it’s very slow and my battery it consumes very fast.
+5. @AppleSupport It’s showing it’s connected and the battery is decreasing.
+
+### RESTORE
+1. @AppleSupport I connected 7 to create backup before heading to collect my new X on my lunch break. When I got back to work and turned on X and selected restore from iTunes backup it said previous backup was corrupted. Needed my phone so had to set up as new to make calls.
+2. @AppleSupport I did. It took multiple attempts to finally get it to the restore/reset option. I wiped it Bc my last backup had the passcode on already.Thx
+3. @AppleSupport @AppleSupport still having issues. I took it to an iShop and it won’t restore either
+4. @AppleSupport On my mom phone it flickers on my phone the messages complete crashes! But sure try to minimize the problem and tell me how a restore will work even though it didn’t !!!
+5. @AppleSupport thank you, wow. from iTunes. I hoped to do full restore so I could have my health data. I restored settings on old phone to make new psswrd
+
+### BACKUP
+1. @AppleSupport My backup was stored to my MacBook Pro which battery died 2 months ago.
+2. @AppleSupport I connected 7 to create backup before heading to collect my new X on my lunch break. When I got back to work and turned on X and selected restore from iTunes backup it said previous backup was corrupted. Needed my phone so had to set up as new to make calls.
+3. @AppleSupport i have updated my phone to 11.1.2. But to get my backup from my 7 installed on my X. Is it possible as I set up the X as new.
+4. @AppleSupport I did. It took multiple attempts to finally get it to the restore/reset option. I wiped it Bc my last backup had the passcode on already.Thx
+5. @AppleSupport I did an icloud backup two days ago, i’ll update my software
+
+### DATA
+1. @AppleSupport My screen is broken and I’d like to connect in iTunes in order to save my data. How can I do ? iTunes request to unlock my device ...
+2. @AppleSupport Due to non provoced heavy disk access on my external disk, right after updating to 10.13.1 DATA DOWN! #fail 2/2
+3. @AppleSupport I have tried it on different WiFi and cell data. It seems to not work. Then quite some time after I have tired to download it will pop up multiple times to allow it to download then later it downloads out of no where. So it’s strange.
+4. @AppleSupport Yes i am able to update them using cellular data. And yes i update all of them at once
+5. @AppleSupport there is one from a little while back that would have most of the notes data
+
+### STORE
+1. @AppleSupport But this does not show the music stored on my phone like it did in os3. I do not want to store music on my phone.
+2. @AppleSupport Got it solved by deleting cache files/killing procs etc. There is obvs. an ongoing issue with app store+xcode - please fix FFS!
+3. @AppleSupport App store now appears to be working
+4. @AppleSupport I couldn’t access App Store neither iPhone nor Mac. But everything restored few mins ago. Thank you.
+5. @AppleSupport The App Store randomly restarted working. No idea how and why. Thanks anyways.
+
+### SCREEN
+1. @AppleSupport I just get a white screen and nothing loads. After a short time, it just closes/crashes. Thanks for the reply.
+2. @AppleSupport ya.lately my screen was disfunction for touch after its been restart. i couldnt enter passcode yet homebutton still figureout my fingerprint
+3. @AppleSupport My screen is lagging, my apps are all glitching, your new screen updates are slowing my processsing speed down. Y’all are killin me fr yo
+4. @AppleSupport Like this. Open the Multitasking screen, swiping up on the WhatsApp app to close it; as seen in the video. https://t.co/yeOErcAbIz
+5. @AppleSupport My screen is broken and I’d like to connect in iTunes in order to save my data. How can I do ? iTunes request to unlock my device ...
+
+### KEYBOARD
+1. @AppleSupport Yes, sorry i mean iOS 11, when I texting my keyboard it’s very slow and my battery it consumes very fast.
+2. @AppleSupport It’s happening in all my apps. I’m thinking there’s a problem with the keyboard.
+3. @AppleSupport The only keyboard I️ have is whatever my iPhone came with. It’s occurring in everything: messages, social media, emailing ect.
+4. @AppleSupport iOS11 I’ve tried resetting the keyboard it didn’t work.
+5. @AppleSupport Ye every now and then my keyboard keeps disappearing and doesn’t come back up can you help please?
+
+### NETWORK
+1. @AppleSupport I’ve updated to iOS 11.1. Still get “Invalid password “, even after resetting network setting and ‘forget this network’ and trying again to join. Nothing works.
+2. @AppleSupport 4G. In fact, my internet connection was used to create this tweet at the time so I have to assume the network was not the cause.
+3. @AppleSupport Network connection ✅ Latest software ✅ AppStore setting ✅ Date and time sync ✅
+4. @AppleSupport Updating the phone using iTunes is the only option left. The network is fine, why can't i do it directly on the phone..It always used to do before..
+5. @AppleSupport It’s working now I guess it was the network I was on... thanks anyway tho
+
+### CONNECTION
+1. @AppleSupport If I open Safari, for example, a message appears which says that there is no internet connection.
+2. @AppleSupport On Safari it gives me connection error, after entering 2FA password and trusting the browser dialogs. I get a similar error in iCloud prefs https://t.co/LXiPTSfT8K
+3. @AppleSupport 11.1 which has been causing many glitches on my phone between apps/internet connection &amp; keyboard
+4. @AppleSupport 4G. In fact, my internet connection was used to create this tweet at the time so I have to assume the network was not the cause.
+5. @AppleSupport Network connection ✅ Latest software ✅ AppStore setting ✅ Date and time sync ✅
+
+### SYNC
+1. @AppleSupport Thanks for getting back to me. I have Windows 10 &amp; the latest version of iTunes, which updated this morning just before I did the sync.
+2. @AppleSupport Network connection ✅ Latest software ✅ AppStore setting ✅ Date and time sync ✅
+3. @AppleSupport I’ve checked iCloud storage on web Mac and iPhone. They all say I have 10gig free left to use but photos on Mac says if ran out and won’t sync new photos across from my phone. Not tried much. Apart from deleting what was in the deleted folder. Made no difference to space.
+4. @AppleSupport Yeah I am.  I tried re-syncing but because I deleted it off the old phone it doesn’t seem to sync them over.
+5. @AppleSupport All settings are as shown in the document, but some Podcast-episodes won’t sync and need to be downloaded on the device after syncing
+
+### STORAGE
+1. @AppleSupport Thank you. Twitter didn’t notify me of your reply :( so restored phone &amp; ok now. Was phone storage not iCloud.
+2. @AppleSupport iPhone 7 jet black, max storage
+3. @AppleSupport It's downloaded. I see it's downloaded in my storage, when I press install it thinks for a bit then says an error occurred, but doesn't explain the error
+4. @AppleSupport I’m already using optimised storage. The problem is that it has stopped being so optimal. It is permanently bloated, it used to grow and shrink dynamically but something has stopped working. It works fine on my iPhone 7, but not on the iPad.
+5. @AppleSupport I’ve checked iCloud storage on web Mac and iPhone. They all say I have 10gig free left to use but photos on Mac says if ran out and won’t sync new photos across from my phone. Not tried much. Apart from deleting what was in the deleted folder. Made no difference to space.
+
+### CAMERA
+1. @AppleSupport 6 plus, idk what iOS version.. and it was the rear facing camera
+2. @AppleSupport No, just turns the image from the front facing camera fuzzy
+3. @AppleSupport @135062 can you make an apple camera
+4. @AppleSupport Yeah I actually just fixed it by tapping the top of the phone above the camera. Works fine again! Thanks!
+5. @AppleSupport I am clicking the flash icon in camera mode, and setting to “off” rather than “auto”.
+
+### MESSAGE
+1. @AppleSupport okay i’ll message soon, thankyou for your help
+2. @AppleSupport I received an error message. And another when I tried to set it up again in settings
+3. @AppleSupport Tried the steps. Still receiving an error message. Just updated to iOS 11.1 and got the message when my phone restarted
+4. @AppleSupport I get this message when I close the app. When I touch it I get into the app, but getting this when closing the app is annoying.
+5. @AppleSupport The problem has seemed to resolve itself. Thanks so much for replying. If I have any further problems I will message.
+
+### MESSAGES
+1. @AppleSupport The only keyboard I️ have is whatever my iPhone came with. It’s occurring in everything: messages, social media, emailing ect.
+2. @AppleSupport It gets stuck sideways and it will go up to previous messages and not show me the latest until I close the app and reopen.
+3. @AppleSupport No error messages show up. The app will not open from the dock, applications folder, or any other location.
+4. @AppleSupport Both downloading updates and new apps. No messages shown when I’m downloading.
+5. @AppleSupport It is something like this that is going on: https://t.co/eruk4JvXR3   The number of messages is too much to deal with on an individual basis
+
+### IMESSAGE
+1. @AppleSupport No imessage as well I️
+2. @AppleSupport iMessage &amp; snapchat
+3. @AppleSupport Watch the key change after I️ write this. It does it on iMessage also. I️ I️ I️ .
+4. @AppleSupport iMessage stopped working and won’t activate anymore—is that a problem on your side?
+5. @AppleSupport I have, also have signed out of my iMessage account and logged back in
+
+### FACETIME
+1. @AppleSupport I can listen to music and talk on internet calls (whatsapp/FaceTime) but regularly mobile calls are mute. Can’t hear other person
+2. @AppleSupport Did the latest update. Problem continues when I FaceTime my wife. She has the same issues on her end as well. Both phones were already restarted and it didn’t fix the problem
+3. @AppleSupport Yes , all my apps are updated.  The apps I use that my phone freezes the most are Youtube, Messaging , and Snapchat. I’ve also noticed that if I’m on FaceTime at a low battery percent it also freezes.
+4. @AppleSupport @179841 My phone hasn’t worked for probably 3 weeks. Can’t make calls or FaceTime since the keynote speech. And my SnapChat doesn’t record volume
+5. @AppleSupport iOS 11.0.1 I believe. I updated around a week ago but FaceTime hasn’t been working for about two months.
+
+### ICLOUD
+1. @AppleSupport On Safari it gives me connection error, after entering 2FA password and trusting the browser dialogs. I get a similar error in iCloud prefs https://t.co/LXiPTSfT8K
+2. @AppleSupport Thank you. Twitter didn’t notify me of your reply :( so restored phone &amp; ok now. Was phone storage not iCloud.
+3. @AppleSupport Yup. Am a member. Normally make updates on iTunes on the comp, listen on-the-go on my phone. The iCloud Lib on/off button turns on and then back to off once I leave Settings. Since yest morning. Haven’t made any setting/other changes. Normal operation
+4. @AppleSupport I did an icloud backup two days ago, i’ll update my software
+5. @AppleSupport I actually lost the power cord so I finally charged my ipad yesterday and am using it today for the first time in a few months. Since turning it on this morning, I haven't been able to update any apps or navigate the app store at all. I checked and my icloud account is linked
+
+### DEVELOPER
+1. @AppleSupport Does this mean I as a musical artist have to enrol as an Apple Developer? All I want to do is set my Artist Photo on Apple Music!! xx
+2. @AppleSupport My account is associated with a corporate iOS developer account.
+3. @AppleSupport I get "[Name of App] Needs to Be Updated The developer of this app needs to update it to work with iOS 11." Clicking OK just closes out...
+4. @AppleSupport I am not a developer, just a user. Any ideas?
+5. @AppleSupport Who should I contact? The issue is already reported in the Developer forum: https://t.co/Hw7iq1OlVc I think your site is just not working.
