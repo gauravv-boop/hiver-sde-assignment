@@ -10,6 +10,15 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown(
+    """
+    <div style="position: absolute; top: 20px; right: 30px; font-size: 14px; color: #666;">
+        Created by <b>Gaurav Kumar</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
 INTENTS = [
     "account_login_verification",
     "app_store_app_issue",
